@@ -1,6 +1,16 @@
 # Coursera_Algorithms_StanfordUniversity_Course1
 Programming assignments for course: Divide and Conquer, Sorting and Searching, and Randomized Algorithms(https://www.coursera.org/learn/algorithms-divide-conquer).
 
+The 1st assignment is to implement a recursive algorithm to calculate multiplication of two very large integers.
+
+The 2nd assignment is to find the number of all inversions in given array, using recursive merge sort algorithm. Definition of inversion: Given array A[1... n], for every i < j, find all inversion pairs such that A[i] > A[j].
+
+The 3rd assignment is to implement recursive algorithm for quick sort.
+
+The 4th assignment is to implement a graph data structure and a randomized Karger minimum cut algorithm to find the minimum cut in given undirected graph.
+
+For more detailed description of the problems, please read below.
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Programming Assignment #1 (IntegerMultiplier.java).
