@@ -2,6 +2,7 @@
 Programming assignments for course: Divide and Conquer, Sorting and Searching, and Randomized Algorithms(https://www.coursera.org/learn/algorithms-divide-conquer).
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Programming Assignment #1 (IntegerMultiplier.java).
 
 In this programming assignment you will implement one or more of the integer multiplication algorithms described in lecture.
